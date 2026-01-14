@@ -1,9 +1,9 @@
 if __name__ == '__main__':
-    x = int(input())
-    y = int(input())
-    z = int(input())
-    n = int(input())
-    
+    x = int(input())  # Input for x
+    y = int(input())  # Input for y
+    z = int(input())  # Input for z
+    n = int(input())  # Input for n
+
     result = [
         [i, j, k]
         for i in range(x + 1)
