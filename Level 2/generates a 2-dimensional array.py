@@ -9,3 +9,19 @@ X = int(X)
 Y = int(Y)
 array_2d = [[i * j for j in range(Y)] for i in range(X)]
 print(array_2d)
+
+
+# or 
+
+
+input_str = input()
+dimensions=[int(x) for x in input_str.split(',')]
+rowNum=dimensions[0]
+colNum=dimensions[1]
+multilist = [[0 for col in range(colNum)] for row in range(rowNum)]
+
+for row in range(rowNum):
+    for col in range(colNum):
+        multilist[row][col]= row*col
+
+print(multilist)
