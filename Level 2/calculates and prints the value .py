@@ -6,6 +6,19 @@
 # Hints: If the output received is in decimal form, it should be rounded off to its nearest value (for example, if the output received is 26.0, it should be printed as 26)
 #  In case of input data being supplied to the question, it should be assumed to be a console input.
 
+import math
+C = 50
+H = 30  
+D = input("Enter the values of D in a comma-separated sequence: ")
+D_values = D.split(",")
+Q_values = []
+for D in D_values:
+    D = int(D)
+    Q = math.sqrt((2 * C * D) / H)
+    Q_values.append(str(round(Q)))
+print(",".join(Q_values))
+
+# or
 
 import math
 c=50
