@@ -15,3 +15,8 @@ output_string = ",".join(sorted_words)
 # Print the sorted words
 print(output_string)
 
+# or
+
+items=[x for x in input().split(',')]
+items.sort()
+print(','.join(items))
