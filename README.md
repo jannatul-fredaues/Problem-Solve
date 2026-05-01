@@ -1,65 +1,85 @@
 # Problem-Solving
 
-A structured collection of problem-solving implementations, operating system algorithms, and core programming concepts using Python and C++.
+A curated collection of **algorithms, AI models, and problem-solving implementations** demonstrating practical programming skills in Python and C++.
 
-## This repository reflects hands-on practice in:
+---
 
-Data Structures & Algorithms
-Operating System concepts
-Core Python programming
-# Repository Structure
-Problem-Solve/
-│
-├── AI Model code/        # AI-related experiments / implementations
-├── C++/                  # C++ problem-solving codes
-├── Level 1/              # Beginner-level problems
-├── Level 2/              # Intermediate-level problems
-├── Tuples/               # Python tuple practice
-│
-├── Banker's algorithm.py
-├── FCFS.py
-├── FIFO.py
-├── LRU.py
-├── Priority.py
-│
-├── Function.py
-├── Parameter.py
-├── Operations with other types.py
-├── Other variable types.py
+##  Overview
 
-# Topics Covered
-## Operating System Algorithms
-Banker's Algorithm
-FCFS Scheduling
-Priority Scheduling
-Page Replacement:
-FIFO
-LRU
-## Programming Fundamentals
-Functions & Parameters
-Variable Types
-Data Type Operations
-Tuples
-## Problem Solving Levels
-Level 1 → Basic problems
-Level 2 → Intermediate problems
-## Languages Used
-Python
-C++
-## How to Run
-### Python
-python filename.py
-### C++
-g++ filename.cpp -o output
-./output
-## Purpose of This Repository
-Strengthen problem-solving skills
-Practice OS algorithms and DSA
-Build a strong coding foundation
-Prepare for technical interviews
-## Future Improvements
-Add time & space complexity to each file
-Add problem descriptions in comments
-Rename files to more meaningful names
-Organize OS algorithms into a separate folder
-Add examples and test cases
+This repository is designed to showcase:
+
+* Strong **problem-solving ability**
+* Understanding of **core computer science concepts**
+* Hands-on experience with **AI and numerical computing**
+* Clean and structured coding practices
+
+---
+
+##  Project Structure
+
+```
+├── AI Model code/       # Basic AI/ML implementations
+
+├── C++/                # C++ problem-solving codes
+
+├── Level 1/            # Beginner-level problems
+
+├── Level 2/            # Intermediate problems
+
+├── basics/             # Python fundamentals (strings, loops, etc.)
+
+├── Numpy/              # Numerical computing with NumPy
+├── OS_Algorithms/      # Operating system algorithms (e.g., SJF)
+├── Tuples/             # Python tuple operations
+├── linear_algebra/     # Linear algebra implementations
+└── README.md
+```
+
+---
+
+##  Skills Demonstrated
+
+* Data Structures & Algorithms
+* Problem Solving (Competitive Programming style)
+* Python Programming
+* C++ Programming
+* NumPy & Linear Algebra
+* Operating System Algorithms
+* Code Organization & GitHub Practices
+
+---
+
+##  Technologies Used
+
+* **Python**
+* **C++**
+* **NumPy**
+
+---
+
+## Purpose
+
+This repository serves as:
+
+* A **learning archive**
+* A **portfolio for recruiters**
+* A base for future **AI and software development projects**
+
+---
+
+##  Future Improvements
+
+* Add advanced AI/ML models
+* Improve documentation for each folder
+* Include real-world mini projects
+* Add problem explanations
+
+---
+
+##  Author
+
+**Jannatul Ferdaues**
+Aspiring AI Engineer | Problem Solver
+
+---
+
