@@ -19,15 +19,10 @@ This repository is designed to showcase:
 
 ```
 ├── AI Model code/       # Basic AI/ML implementations
-
 ├── C++/                # C++ problem-solving codes
-
 ├── Level 1/            # Beginner-level problems
-
 ├── Level 2/            # Intermediate problems
-
 ├── basics/             # Python fundamentals (strings, loops, etc.)
-
 ├── Numpy/              # Numerical computing with NumPy
 ├── OS_Algorithms/      # Operating system algorithms (e.g., SJF)
 ├── Tuples/             # Python tuple operations
